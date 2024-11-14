@@ -19,7 +19,6 @@ I am a Data Scientist with expreience in Machine Learning, Deep Learning, Comput
 </h4>
 <p align="left">
   <img src="https://drive.google.com/uc?export=view&id=1gEkoFxGvcTeae4I8cZzud4fjQQAvvWl_" width="45%" />
-  <img src="https://drive.google.com/uc?export=view&id=1AbCDeFgHIJKLmnopQRStUvWx" width="45%" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
