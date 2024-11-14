@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Irene</h1>
-<h3 align="center">I'm a Biologist with wide experience in Data</h3>
+<h3 align="center">I'm a Data Scientist with wide experience</h3>
 
-- 🔭 I’m currently working on [OSTEOAI](https://github.com/irene-martin-rod/OsteoAI)
+I am a Data Scientist with expreience in Machine Learning, Deep Learning, Computer Vision and statistical models. During my carrer, I have faced deiverse challenges which have allowed me to implement different models: supervised, non-supervised, non-pametrics, bayesian... If you want more informate, here is my [LinkedIn Profile](https://www.linkedin.com/in/irenemartin-rodriguez/). Also, I am a Biologist with expreience in analysing genetic and metagenomic data (you can read my [articles](https://www.researchgate.net/profile/Irene-Martin-Rodriguez)).
 
-- 🌱 I’m currently learning **Ultralytics and YOLO**
+- I’m currently working on a project, called [OSTEOAI](https://github.com/irene-martin-rod/OsteoAI), to **detect automatically bone fractures**, using **Computer Vision and Deep Learning**. I am using library as OpneCV, Keras, Tensorflow and Ultralytics among others. 
 
-- 👯And also, **in an editorial proyect**
+- I’m currently learning how use **Ultralytics and YOLO** for my project **OSTEOAI**
 
-- 📝 You can also take a look to other projects in [https://www.researchgate.net/profile/Irene-Martin-Rodriguez](https://www.researchgate.net/profile/Irene-Martin-Rodriguez)
+- You can also take a look to my dashboards in my [Tableau profile](https://public.tableau.com/app/profile/irene.mart.n.rodr.guez/vizzes)
+  
+- Ask me about **Data Science**
 
-- 💬 Ask me about **Machine Learning & Deep learning**
+- How to reach me **martinrod.irene@gmail.com**
 
-- 📫 How to reach me **martinrod.irene@gmail.com**
+<h3 align="left">Highlight projects:</h3>
+<h4 align="left">
+  - [OsteoAI: Detection of bone fractures](https://github.com/irene-martin-rod/OsteoAI)
+</h4>
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1gEkoFxGvcTeae4I8cZzud4fjQQAvvWl_" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1AbCDeFgHIJKLmnopQRStUvWx" width="45%" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
