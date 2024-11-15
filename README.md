@@ -15,7 +15,7 @@ I am a Data Scientist with expreience in Machine Learning, Deep Learning, Comput
 
 <h3 align="left">Highlight projects:</h3>
 <h4 align="left">
-  - [OsteoAI: Detection of bone fractures](https://github.com/irene-martin-rod/OsteoAI)
+  <a href="https://github.com/irene-martin-rod/OsteoAI">OsteoAI: Detection of bone fractures</a>
 </h4>
 <p align="left">
   <img src="https://drive.google.com/uc?export=view&id=1gEkoFxGvcTeae4I8cZzud4fjQQAvvWl_" width="45%" />
@@ -75,5 +75,8 @@ I am a Data Scientist with expreience in Machine Learning, Deep Learning, Comput
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   </a>
 </p>
