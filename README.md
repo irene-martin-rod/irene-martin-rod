@@ -1,32 +1,35 @@
 <h1 align="center">Hi 👋, I'm Irene</h1>
-<h3 align="center">I'm a Data Scientist with wide experience</h3>
+<h2 align="center">Data Scientist</h2>
 
-I am a Data Scientist with expreience in Machine Learning, Deep Learning, Computer Vision and statistical models. During my carrer, I have faced deiverse challenges which have allowed me to implement different models: supervised, non-supervised, non-pametrics, bayesian... If you want more informate, here is my [LinkedIn Profile](https://www.linkedin.com/in/irenemartin-rodriguez/). Also, I am a Biologist with expreience in analysing genetic and metagenomic data (you can read my [articles](https://www.researchgate.net/profile/Irene-Martin-Rodriguez)).
+Hi there! I’m a Data Scientist with a strong background in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>statistical modeling</b>, and <b>data-driven decision-making</b>, especially in interdisciplinary projects at the intersection of environmental science, biology, and technology, but I am open to new field, like finances or e-commerce. <b>I am alway looking new challenges!</b>
 
-- I’m currently working on a project, called [OSTEOAI](https://github.com/irene-martin-rod/OsteoAI), to **detect automatically bone fractures**, using **Computer Vision and Deep Learning**. I am using library as OpneCV, Keras, Tensorflow and Ultralytics among others. 
+My work focuses on building <b>end-to-end data solutions</b> — from exploratory data analysis and feature engineering to deploying predictive models and visualizing insights. I <b>enjoy collaborating with cross-functional teams</b> and turning complex datasets into actionable knowledge. 
 
-- I’m currently learning how use **Ultralytics and YOLO** for my project **OSTEOAI**
+I'm most comfortable working with <b>Python</b>, <b>R</b>, <b>SQL</b>, and tools like <b>scikit-learn</b>, <b>Keras</b>, <b>Tensorflow</b>, <b>XGBoost</b> or <b>Tableau</b>. I also care deeply about <b>clean code</b>, <b>reproducibility/b>, and <b>communicating results</b> clearly to both technical and non-technical audiences.
 
-- You can also take a look to my dashboards in my [Tableau profile](https://public.tableau.com/app/profile/irene.mart.n.rodr.guez/vizzes)
-  
-- Ask me about **Data Science**
+If you want more information, here is my [LinkedIn Profile](https://www.linkedin.com/in/irenemartin-rodriguez/), my [ResearhGate Profile](https://www.researchgate.net/profile/Irene-Martin-Rodriguez) and my [Tableau profile](https://public.tableau.com/app/profile/irene.mart.n.rodr.guez/vizzes).
 
-- How to reach me **martinrod.irene@gmail.com**
+Let’s connect — I’m always open to new ideas, challenges, and meaningful collaborations! You can contact me through my Linkedin profile or by email at **martinrod.irene@gmail.com**
 
-<h3 align="left">Highlight projects:</h3>
-<h4 align="left">
-  <a href="https://github.com/irene-martin-rod/OsteoAI">OsteoAI: Detection of bone fractures</a>
-</h4>
+<h3>The most relevant projects</h3>
+
+- [OsteoAI: Automatic classification of X-ray images in bone fractures or non-fractures using Deep and Machine Learning](https://github.com/irene-martin-rod/OsteoAI). The aim of this project is to **detect automatically bone fractures**, using **Computer Vision, Machine Learning and Deep Learning**. I am using library as OpenCV, Keras, Tensorflow, Scikit-Learn, among others. 
+
 <p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1gEkoFxGvcTeae4I8cZzud4fjQQAvvWl_" width="45%" />
+  <iframe width="45%" height="300" src="https://www.youtube.com/embed/6biwDwJbPTM" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irenemartin-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenemartin-rodriguez" height="30" width="40" /></a>
-</p>
+<h3>Other projects</h3>
+- [CryptoTrendPredictor: Predicting temporal tendencies of crytocurrencies using ML](https://github.com/irene-martin-rod/CryptoTrendPredictor)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>More information</h3>
+- Learning GenAI
+
+<h3>Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
