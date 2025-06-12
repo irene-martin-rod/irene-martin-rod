@@ -17,7 +17,9 @@ Let’s connect — I’m always open to new ideas, challenges, and meaningful c
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=yUlkPxakf1Q" target="_blank">
-    <img src="https://i.postimg.cc/ryBw0MTw/Osteo-AI-demo.png" alt="Watch the demo in YouTube" width="50%">
+    <img src="https://i.postimg.cc/ryBw0MTw/Osteo-AI-demo.png" alt="Watch the demo on YouTube" width="50%">
+    <br>
+    <span style="font-family: Arial; font-size: 16px; color: #000;">Watch the demo</span>
   </a>
 </p>
 
