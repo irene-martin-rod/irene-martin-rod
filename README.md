@@ -14,9 +14,11 @@ Let’s connect — I’m always open to new ideas, challenges, and meaningful c
 <h3>The most relevant projects</h3>
 
 - [OsteoAI: Automatic classification of X-ray images in bone fractures or non-fractures using Deep and Machine Learning](https://github.com/irene-martin-rod/OsteoAI). The aim of this project is to **detect automatically bone fractures**, using **Computer Vision, Machine Learning and Deep Learning**. I am using library as OpenCV, Keras, Tensorflow, Scikit-Learn, among others.
-  
-  <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15ZHMozqyva2l6KXnyPsqmXMHWeATlnhu" width="50%">
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yUlkPxakf1Q" target="_blank">
+    <img src="https://i.postimg.cc/ryBw0MTw/Osteo-AI-demo.png" alt="Watch the demo in YouTube" width="50%">
+  </a>
 </p>
 
 <h3>Other projects</h3>
