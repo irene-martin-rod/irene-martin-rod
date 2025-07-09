@@ -31,7 +31,7 @@ Let’s connect — I’m always open to new ideas, challenges, and meaningful c
 
 - [CryptoTrendPredictor: Predicting temporal tendencies of cryptocurrencies using ML](https://github.com/irene-martin-rod/CryptoTrendPredictor)
 
-### More information**
+### **More information**
 - Learning GenAI
 
 ### **Languages and Tools**
